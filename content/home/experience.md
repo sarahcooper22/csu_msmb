@@ -164,7 +164,7 @@ date_format = "   "
   date_end = "2020-01-23"
   description = """
   
-  Exercise for Chapter:
+  Exercise for Chapter: Exercise 9.2 (p. 246), *Correspondence analysis on color association tables*
   
   Student responsibilities:
 
@@ -181,7 +181,7 @@ date_format = "   "
   date_end = "2020-01-22"
   description = """
   
-  Exercise for Chapter:
+  Exercise for Chapter: 10.8 (p. 277) (Starts with "Compare the use of...")
   
   Student responsibilities:
 
@@ -198,7 +198,7 @@ date_format = "   "
   date_end = "2020-01-21"
   description = """
   
-  Exercise for Chapter:
+  Exercise for Chapter: Read in the data from Section 11.15. Conduct the analyses for spatial dependence (11.17) using different cell types than those used in the book's code.
   
   Student responsibilities:
 
@@ -232,12 +232,12 @@ date_format = "   "
   date_end = "2020-01-19"
   description = """
   
-  Exercise for Chapter:
+  Exercise for Chapter: None
   
   Student responsibilities:
 
   * Vocabulary: [James DeLisio](https://kind-neumann-789611.netlify.com/authors/james_dilisio/)
-  * Exercise: To be determined
+  * Exercise: None
   """
 
 +++
